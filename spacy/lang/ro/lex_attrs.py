@@ -9,7 +9,7 @@ _num_words = set(
 zero unu doi două trei patru cinci șase șapte opt nouă zece
 unsprezece doisprezece douăsprezece treisprezece patrusprezece cincisprezece șaisprezece șaptesprezece optsprezece nouăsprezece
 douăzeci treizeci patruzeci cincizeci șaizeci șaptezeci optzeci nouăzeci
-sută mie milion miliard bilion trilion cvadrilion catralion cvintilion sextilion septilion enșpemii
+sută mie mii milion miliard bilion trilion cvadrilion catralion cvintilion sextilion septilion enșpemii
 """.split()
 )
 
